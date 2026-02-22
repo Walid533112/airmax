@@ -11,54 +11,10 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 #EXTINF:0 CUID="21" tvg-name="LIVE 24 -02" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 CUID="34" tvg-name="Bien sport 3 🇶🇦 854x480" tvg-id="ext" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 854x480
-http://bdd78.4rouwanda-shop.store/live/161988840/index.m3u8
-#EXTINF:0 CUID="35" tvg-name="Bien sport 3 🇶🇦 426x240" tvg-id="ext" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 426x240
-http://bdd78.4rouwanda-shop.store/live/551818447/index.m3u8
-#EXTINF:0 CUID="36" tvg-name="BEIN SPORT 4 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
-#EXTINF:0 CUID="37" tvg-name="BEIN SPORT 5 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:0 CUID="38" tvg-name="BEIN SPORT 6 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:0 CUID="39" tvg-name="BEIN SPORTS 7 🇶🇦" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 7 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
-#EXTINF:0 CUID="40" tvg-name="BEIN SPORTS 8 🇶🇦" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 8 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/996251000/index.m3u8⁰
-#EXTINF:0 CUID="41" tvg-name="BEIN SPORT 1" tvg-id="ext" tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-https://stream.sainaertebat.com/hls2/bein1.m3u8
-#EXTINF:0 CUID="42" tvg-name="BEIN SPORT 2" tvg-id="ext" tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-https://stream.sainaertebat.com/hls2/bein2.m3u8
-#EXTINF:0 CUID="43" tvg-name="BEIN SPORT 3" tvg-id="ext" tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-https://stream.sainaertebat.com/hls2/bein3.m3u8
-#EXTINF:0 CUID="44" tvg-name="NUBAR SPORT HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",NUBAR SPORT HD
-http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
 #EXTINF:0 CUID="45" tvg-name="SPORT HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:0 CUID="46" tvg-name="SPORT OUTDOOR HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="47" tvg-name="NUBARSport" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",NUBARSport
-http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
-#EXTINF:0 CUID="48" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 1 FHD
-http://125x.org:8080/bn14k/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="49" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3404.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 1 HD
-http://live.gogo-iptv.com:8880/live/773842285585372/0rMkGwL35/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
-#EXTINF:0 CUID="50" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 2 FHD
-http://125x.org:8080/bn24k/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="51" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 3 FHD
-http://125x.org:8080/bn34k/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="52" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5082.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 4 FHD
-http://125x.org:8080/bn44k/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="53" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 5 FHD
-http://125x.org:8080/bn54k/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="54" tvg-name="Bien sport 1 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="55" tvg-name="BEIN SPORT 2 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦
-http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="56" tvg-name="Bien sport 3 🇶🇦" tvg-id="ext" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="57" tvg-name="BEIN SPORT 4 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 🇶🇦
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="58" tvg-name="BEIN SPORT 6 🇶🇦" tvg-id="ext" tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="59" tvg-name="Bien sport 1 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
