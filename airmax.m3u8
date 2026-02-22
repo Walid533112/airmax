@@ -189,16 +189,6 @@ http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?
 http://85.11.144.9:4222/DIEMASPORT
 #EXTINF:0 CUID="450" tvg-name="[$]DIEMA SPORT 2HD" tvg-logo="https://i.imgur.com/FYTGoig.png" group-title="[⚽]SPORTE VIP",[$]DIEMA SPORT 2HD
 http://85.11.144.9:4222/DIEMASPORT2
-#EXTINF:0 CUID="451" tvg-name="[$]NOVA SPORT HD" tvg-logo="https://i.imgur.com/H4mHioN.png" group-title="[⚽]SPORTE VIP",[$]NOVA SPORT HD
-http://85.11.144.9:4222/NovaSport
-#EXTINF:0 CUID="452" tvg-name="[$]MAX SPORT 4HD" group-title="[⚽]SPORTE VIP",[$]MAX SPORT 4HD
-http://85.217.193.70:41444/
-#EXTINF:0 CUID="453" tvg-name="[$]RING HD" tvg-logo="https://i.imgur.com/myHlQ53.png" group-title="[⚽]SPORTE VIP",[$]RING HD
-http://87.246.60.6:11035?token=test
-#EXTINF:0 CUID="454" tvg-name="[$]МАТЧ! ФУТБOЛ 3HD" tvg-logo="https://i.imgur.com/7xkxSSg.png" group-title="[⚽]SPORTE VIP",[$]МАТЧ! ФУТБOЛ 3HD
-http://185.57.68.33/110/mpegts
-#EXTINF:0 CUID="455" tvg-name="[$]SETANTA SPORTS HD" tvg-logo="https://i.imgur.com/OExhblV.png" group-title="[⚽]SPORTE VIP",[$]SETANTA SPORTS HD
-http://62.233.57.226:8001/play/a00p
 #EXTINF:0 CUID="456" tvg-name="[$]DAZN 1HD" tvg-logo="https://i.imgur.com/rBcLD0N.png" group-title="[⚽]SPORTE VIP",[$]DAZN 1HD
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:0 CUID="457" tvg-name="[$]DAZN 2HD" tvg-logo="https://i.imgur.com/avOfuwS.png" group-title="[⚽]SPORTE VIP",[$]DAZN 2HD
@@ -281,11 +271,5 @@ http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 https://c1s4.vfruitfairy.com/soc15/index.m3u8?token=test
 #EXTINF:0 CUID="496" tvg-name="BEIN SPORT⚽️" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
-#EXTINF:0 CUID="497" tvg-name="⚽️كيف احصل على الكود" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:0 CUID="498" tvg-name="النسخة المدفوعة AirMax TV" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
 #EXTINF:0 CUID="499" tvg-name="SPORT CHANNELS" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
-#EXTINF:0 CUID="500" tvg-name="كيف احصل على الكود" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
-https://bit.ly/3gj9PK5
